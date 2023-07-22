@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --bourbon: #b9750f;
+  --chicago: #5b5a5a;
+  --dune: #3b3529;
+  --eerie-black: #171717;
+  --eerie-black-2: #1e1e1e;
+  --hunter-green: #161814;
+  --white: #ffffff;
+  --woodsmoke: #101010;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+ 
+  --font-family-jura: "Jura", Helvetica;
+  --font-family-oswald: "Oswald", Helvetica;
+}

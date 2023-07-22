@@ -1,0 +1,11 @@
+.frame-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1420px;
+}
+
